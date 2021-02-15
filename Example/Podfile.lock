@@ -1,0 +1,18 @@
+PODS:
+  - SchibstedTracking (3.9.9):
+    - SchibstedTracking/Tracker (= 3.9.9)
+  - SchibstedTracking/Tracker (3.9.9)
+
+DEPENDENCIES:
+  - SchibstedTracking (from `../`)
+
+EXTERNAL SOURCES:
+  SchibstedTracking:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SchibstedTracking: 3ba48405c8705cf1d0f1e18504b90d099c69f402
+
+PODFILE CHECKSUM: ee0109d6a3080a70d3d5b798659b64bd8154af7d
+
+COCOAPODS: 1.10.1

@@ -1,0 +1,10 @@
+source 'git@github.schibsted.io:CocoaPods/Specs.git'
+source 'https://cdn.cocoapods.org'
+use_frameworks!
+platform :ios, '11.0'
+
+ENV['COCOAPODS_DISABLE_STATS'] = 'true'
+
+target 'SchibstedTracking_Example' do
+  pod 'SchibstedTracking', :path => '../'
+end
