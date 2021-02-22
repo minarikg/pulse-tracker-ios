@@ -1,7 +1,7 @@
 PODS:
-  - SchibstedTracking (3.9.9):
-    - SchibstedTracking/Tracker (= 3.9.9)
-  - SchibstedTracking/Tracker (3.9.9)
+  - SchibstedTracking (0.0.1):
+    - SchibstedTracking/Tracker (= 0.0.1)
+  - SchibstedTracking/Tracker (0.0.1)
 
 DEPENDENCIES:
   - SchibstedTracking (from `../`)
@@ -11,7 +11,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SchibstedTracking: 3ba48405c8705cf1d0f1e18504b90d099c69f402
+  SchibstedTracking: 5ba5869d604d35c8b0ae6d91782e5843098bb682
 
 PODFILE CHECKSUM: ee0109d6a3080a70d3d5b798659b64bd8154af7d
 

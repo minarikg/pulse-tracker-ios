@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SchibstedTracking'
-  s.version          = '3.9.9'
+  s.version          = '0.0.1'
   s.swift_version    = '5.0'
   s.summary          = 'SchibstedTracking - iOS SDK for Pulse tracking.'
 
